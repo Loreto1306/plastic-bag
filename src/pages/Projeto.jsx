@@ -10,7 +10,7 @@ export default function Projeto() {
         <div>
           
         </div>
-        <div id="carouselExample" className="carousel slide tw-relative" style={{width:"80%", margin: "30px auto"}}>
+        <div id="carouselExample" className="carousel slide tw-relative" style={{width:"80%", margin: "31px auto"}}>
             <div className="carousel-inner">
               <div className="carousel-item active">
                 <img src="../../Screenshot 2024-05-30 at 12.37.56.png" className="d-block " alt="..." style={{width:"90%", margin:"auto"}}/>
