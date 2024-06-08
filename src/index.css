@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* defini uma cor para a pagina inteira */
+  
+  /* defini uma imagem de fundo para essa div */
+  
+  .div_container {
+    width: 100%;
+    height: 70vh;
+    background-image: url(tubalao.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  /* especificando as coisas para os titulos e os sub titulos */
+  
+  
+  .first_text {
+    width: 60%;
+    margin: 30px auto;
+  }
+  
+  
+  .title1 {
+    width: 80%;
+    margin: auto;
+    color: #3474b9;
+    font-weight: 500;
+  }
+  
+  .second-text {
+    width: 60%;
+    margin: auto;
+  }
+  
+  .title2 {
+    width: 80%;
+    margin: 30px auto;
+    color: #375A82;
+  }
+  
+  .third-text {
+    width: 60%;
+    margin: auto;
+  }
+  
+
+  /* Fim das especificaçōes do titulos e sub titulos */
+  
+  /* Footer  */
+
+/*# sourceMappingURL=index.css.map */
+  

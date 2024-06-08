@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.blue_future{
+    width: 80%;
+    margin: 20px auto;
+    color: #375a82;
+}
+
+.plastico{
+    width: 80%;
+    margin: 20px auto;
+    color: #375a82;
+}
+
+.explicacao{
+    width: 80%;
+    margin: auto;
+}
+
+.explicacoes, h1{
+    margin-top: 15px;
+    color: #375a82;
+}
+
+.metodologias{
+    color: #375a82;
+}
+
+.pd{
+    color: #375a82;
+}
+
+.prototipagem{
+    color: #375a82;
+}
+
+.parcerias{
+    color: #375a82;
+}
+
+.resultados{
+    color: #375a82;
+}

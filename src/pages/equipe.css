@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-body{
+    background-color: lightblue;
+}
+
+.team{
+    width: 80%;
+    margin: auto;
+}
+
+.team_title{
+    margin-top: 20px;
+    color: #375a82;
+}
+
+.artur{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #375a82;
+    margin-top: 30px;
+}
+
+.caio{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #375a82;
+    margin-top: 30px;
+}
+
+.wesley{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #375a82;
+    margin-top: 30px;
+}
+
+@media (max-width:1024px)
+{
+  #texto{
+    display: none;
+  }
+}
